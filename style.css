@@ -1,0 +1,13 @@
+#plugin-title.with-banner {
+    height: 250px;
+    width: 772px;
+}
+#plugin-title {
+    background-size: 772px 250px;
+    height: 250px;
+    width: 772px;
+}
+#plugin-title {
+    margin: 0;
+    position: relative;
+}
